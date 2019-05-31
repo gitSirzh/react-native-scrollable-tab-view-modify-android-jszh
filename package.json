@@ -1,0 +1,22 @@
+{
+  "name": "react-native-scrollable-tab-view-modify-android-jszh",
+  "version": "0.10.0",
+  "description": "react-native-scrollable-tab-view-modify-android-jszh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "react-native-scrollable-tab-view-modify-android-jszh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitSirzh/react-native-scrollable-tab-view-modify-android-jszh.git"
+  },
+  "keywords": [
+    "jszh"
+  ],
+  "bugs": {
+    "url": "https://github.com/gitSirzh/react-native-scrollable-tab-view-modify-android-jszh/issues"
+  },
+  "homepage": "https://github.com/gitSirzh/react-native-scrollable-tab-view-modify-android-jszh#readme"
+}
